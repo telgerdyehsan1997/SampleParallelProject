@@ -1,0 +1,40 @@
+# Ignore build output
+StudentInspection/bin/
+StudentInspection/obj/
+StudentsApi/bin/
+StudentsApi/obj/
+Test/bin/
+Test/obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.user.props
+*.user.targets
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore dotnet CLI tools
+.nuget/
+
+# Ignore build cache
+*/.build/
+
+# Ignore test results
+TestResults/
+
+# Ignore publish output
+publish/
+
+# Ignore macOS
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.swp
+*~
+
+# Ignore logs
+*.log
+logs/
