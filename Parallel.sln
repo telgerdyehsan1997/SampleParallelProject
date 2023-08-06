@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel", "StudentInspection\Parallel.csproj", "{1993B978-A490-4358-9DB2-A54B2EEB5765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApi", "StudentsApi\StudentsApi.csproj", "{343AA951-AEC4-4046-BA6E-996852B07FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{3000CEE2-6FC8-48A6-9909-AF04E60EBCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1993B978-A490-4358-9DB2-A54B2EEB5765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1993B978-A490-4358-9DB2-A54B2EEB5765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1993B978-A490-4358-9DB2-A54B2EEB5765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1993B978-A490-4358-9DB2-A54B2EEB5765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343AA951-AEC4-4046-BA6E-996852B07FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343AA951-AEC4-4046-BA6E-996852B07FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343AA951-AEC4-4046-BA6E-996852B07FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343AA951-AEC4-4046-BA6E-996852B07FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3000CEE2-6FC8-48A6-9909-AF04E60EBCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3000CEE2-6FC8-48A6-9909-AF04E60EBCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3000CEE2-6FC8-48A6-9909-AF04E60EBCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3000CEE2-6FC8-48A6-9909-AF04E60EBCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
