@@ -14,6 +14,7 @@ packages/
 
 # Ignore Visual Studio Code files
 .vscode/
+.vs/
 StudentInspection/.vscode/
 
 # Ignore dotnet CLI tools
